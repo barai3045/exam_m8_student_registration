@@ -21,7 +21,7 @@ export async function POST(req, res){
 
 Postman header
 
-POST:  http://localhost:3000/api/show_many_student
+POST:  http://localhost:3000/api/show_all_student
 
 
 Postman body: None
